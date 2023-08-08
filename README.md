@@ -1,6 +1,8 @@
 # CarterChen-website
-A demo site for Data 6
+Potentially the worst Data 6 website you'll ever encounter
 
-#Carter Chen
+# Carter Chen
 
-#Testing, 1,2,3...
+## Bio
+
+Hello! I'm Carter, a current *EECS* major and 
