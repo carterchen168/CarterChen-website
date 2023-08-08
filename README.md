@@ -15,6 +15,6 @@ SEED stands for STEM Excellence through Equity and Diversity, and it's one of th
 ## What is EECS? ##
 EECS refers to the Electrical Engineering and Computer Science major, and it's probably one of the most prestigious majors here! We EECS people pride ourselves for our **extremely low** acceptance rate because that's the only thing we care about here. Just look at the below graph! Go bears!
 
-
+<img src="Screen Shot 2023-08-08 at 11.51.47 AM.png" style="width:300%; height:200%">
 
 
